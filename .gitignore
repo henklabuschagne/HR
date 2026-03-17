@@ -1,0 +1,33 @@
+# Node / Vite
+node_modules/
+dist/
+build/
+.npm/
+.env
+.env.*
+*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Visual Studio / .NET
+.vs/
+bin/
+obj/
+publish/
+TestResults/
+*.user
+*.suo
+*.rsuser
+*.userosscache
+*.sln.docstates
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# App settings overrides / secrets
+appsettings.Development.json
+appsettings.Local.json
